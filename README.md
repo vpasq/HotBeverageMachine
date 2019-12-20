@@ -1,8 +1,8 @@
 ![Readme image](readme.png)
 
 # HotBeverageMachine ([UML Diagram](https://github.com/vpasq/HotBeverageMachine/blob/master/UML_HotBeverageMachine.pdf)) 
-In the first version of HotBeverageMachine I used the Strategy Design Pattern, and since then I have decided to 
-restructure it with the following:
+In the first version of HotBeverageMachine I used the Strategy Design Pattern and since then I have decided to 
+restructure it with the following refactoring:
 - Replace Constructors With Creation Methods
 - Replace State-Altering Conditionals with State
 - Collapse Hierarchy
